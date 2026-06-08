@@ -65,7 +65,9 @@ End-to-end ML system that records 15s of audio, extracts 40+ DSP features via li
 [![React](https://img.shields.io/badge/React-Vite%20%7C%20TypeScript-0d1117?style=flat-square&logo=react&logoColor=61DAFB)](https://github.com/Jmyukopila/Veles)
 [![Repo](https://img.shields.io/badge/View%20Repo-→-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/Jmyukopila/Veles)
 
-<img src="https://raw.githubusercontent.com/Jmyukopila/Jmyukopila/main/assets/veles-preview.png" width="100%" />
+<img width="1890" height="871" alt="veles-preview" src="https://github.com/user-attachments/assets/3ea16d50-63cd-4192-b25f-d93c23cad84d" />
+
+
 
 ---
 
@@ -77,7 +79,8 @@ FastAPI + Python backend that processes raw CSV biosignal data and automatically
 [![Stack](https://img.shields.io/badge/Python-FastAPI%20%7C%20NumPy-0d1117?style=flat-square&logo=fastapi&logoColor=009688)](https://github.com/Jmyukopila/HeatBeat)
 [![Repo](https://img.shields.io/badge/View%20Repo-→-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/Jmyukopila/HeatBeat)
 
-<img src="https://raw.githubusercontent.com/Jmyukopila/Jmyukopila/main/assets/heartbeat-preview.png" width="100%" />
+<img width="791" height="763" alt="heartbeat-preview" src="https://github.com/user-attachments/assets/bf812ac1-03c5-4689-9dee-bcc616784a6a" />
+
 
 ---
 
@@ -90,7 +93,8 @@ Interactive meteorological dashboard with map-based location selection, time ser
 [![NASA](https://img.shields.io/badge/NASA-Space%20Apps%20Challenge-0d1117?style=flat-square&logo=nasa&logoColor=FC3D21)](https://github.com/Jmyukopila/huya-web)
 [![Repo](https://img.shields.io/badge/View%20Repo-→-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/Jmyukopila/huya-web)
 
-<img src="https://raw.githubusercontent.com/Jmyukopila/Jmyukopila/main/assets/huya-preview.png" width="100%" />
+<img width="1901" height="910" alt="huya-preview" src="https://github.com/user-attachments/assets/4c2e3de6-6d50-4f01-a152-a8a9be30b97a" />
+
 
 ---
 
