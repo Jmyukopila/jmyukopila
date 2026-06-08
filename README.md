@@ -5,6 +5,19 @@
 
 <br/>
 
+<!-- LANGUAGE SWITCHER -->
+<div align="center">
+  <a href="./README.md">
+    <img src="https://img.shields.io/badge/🌐 English-active-00aaff?style=for-the-badge&labelColor=0d1117" />
+  </a>
+  &nbsp;
+  <a href="./README.es.md">
+    <img src="https://img.shields.io/badge/🌐 Español-click-555?style=for-the-badge&labelColor=0d1117" />
+  </a>
+</div>
+
+<br/>
+
 <!-- TYPING -->
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -16,6 +29,10 @@
 
 <!-- CONTACT BADGES -->
 <div align="center">
+  <a href="https://www.linkedin.com/in/jasen-yukopila-4261b3343/">
+    <img src="https://img.shields.io/badge/LinkedIn-Jasen%20Yukopila-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+  </a>
+  &nbsp;
   <a href="mailto:jmyukopila@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-jmyukopila%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" />
   </a>
@@ -28,76 +45,52 @@
 ---
 
 ## 👤 About Me
-I'm a Data Science student at the Universidad Tecnológica de Bolívar (UTB) in Cartagena, Colombia where the Caribbean coast meets machine learning pipelines.
-I design and build end-to-end data solutions: from raw ingestion and feature engineering to trained models and interactive dashboards. My projects range from physiological signal processing and NASA asteroid classification to real-time meteorological dashboards always driven by the same question: what is the data actually trying to say?
-Currently diving deep into AI agent architecture, MCP protocol, and context engineering the building blocks of the next generation of intelligent systems.
 
-> *"The goal is to turn data into information, and information into insight."*
+I'm a **Data Science student** at the Universidad Tecnológica de Bolívar (UTB) in Cartagena, Colombia — where the Caribbean coast meets machine learning pipelines.
+
+I design and build end-to-end data solutions: from raw ingestion and feature engineering to trained models and interactive dashboards. My projects range from **physiological signal processing** and **music genre classification** to **real-time meteorological dashboards** — always driven by the same question: *what is the data actually trying to say?*
+
+Currently diving deep into **AI agent architecture**, **MCP protocol**, and **context engineering** — the building blocks of the next generation of intelligent systems.
 
 ---
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### 🎵 Veles — Music Genre Classifier
+> Acoustic feature engineering + Spotify commercial data + real-time classification
 
-### 🫀 HeatBeat
-**Physiological Signal Analyzer**
+End-to-end ML system that records 15s of audio, extracts 40+ DSP features via librosa, and predicts the musical genre using a Voting Classifier (SVM + Gradient Boosting + Random Forest) with **~86.5% accuracy**. Includes a full business dashboard with market KPIs, ROI estimates and B2C Spotify recommendations. Stack: FastAPI · React/Vite · TypeScript · spotipy.
 
-A FastAPI + Python backend that processes CSV biosignal data and computes physiological metrics: heart rate (FC), HRV, SNR, respiratory frequency, and more. Includes auto-interpretation and a static HTML frontend.
+[![Stack](https://img.shields.io/badge/Python-librosa%20%7C%20FastAPI-0d1117?style=flat-square&logo=python&logoColor=00aaff)](https://github.com/Jmyukopila/Veles)
+[![React](https://img.shields.io/badge/React-Vite%20%7C%20TypeScript-0d1117?style=flat-square&logo=react&logoColor=61DAFB)](https://github.com/Jmyukopila/Veles)
+[![Repo](https://img.shields.io/badge/View%20Repo-→-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/Jmyukopila/Veles)
 
-[![Stack](https://img.shields.io/badge/Python-FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=00aaff)](https://github.com/Jmyukopila/HeatBeat)
+<img src="https://raw.githubusercontent.com/Jmyukopila/Jmyukopila/main/assets/veles-preview.png" width="100%" />
+
+---
+
+### 🫀 HeatBeat — Physiological Signal Analyzer
+> Biosignal processing · Heart Rate · HRV · SNR · Respiratory Frequency
+
+FastAPI + Python backend that processes raw CSV biosignal data and automatically computes physiological metrics: heart rate (FC), heart rate variability (HRV), signal-to-noise ratio (SNR), respiratory frequency, and more. Includes automated clinical interpretation and a static HTML frontend.
+
+[![Stack](https://img.shields.io/badge/Python-FastAPI%20%7C%20NumPy-0d1117?style=flat-square&logo=fastapi&logoColor=009688)](https://github.com/Jmyukopila/HeatBeat)
 [![Repo](https://img.shields.io/badge/View%20Repo-→-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/Jmyukopila/HeatBeat)
 
-<img src="<img width="975" height="908" alt="{29543A40-6FBD-4C89-B382-9660B871CF96}" src="https://github.com/user-attachments/assets/be543887-c33e-4da8-8ff5-35859eb24953" />
-"/>
+<img src="https://raw.githubusercontent.com/Jmyukopila/Jmyukopila/main/assets/heartbeat-preview.png" width="100%" />
 
-</td>
-<td width="50%" valign="top">
+---
 
-### 🪐 NEOs Analysis
-**Near-Earth Objects · NASA Data**
+### 🌦️ Huya Weather — Meteorological Prediction Dashboard
+> NASA Space Apps Challenge · Interactive map · Multi-variable time series
 
-Full ML pipeline on JPL/NASA asteroid data. Features K-Means clustering (6 groups), PCA (73.27% variance explained), t-SNE & UMAP visualizations, and a custom rarity index based on approach distance, magnitude, and impact rate.
+Interactive meteorological dashboard with map-based location selection, time series visualization of precipitation, humidity, pressure, wind and temperature. Supports CSV/JSON/Excel export. Built for and recognized at the **NASA Space Apps Challenge**.
 
-[![Stack](https://img.shields.io/badge/Python-sklearn-0d1117?style=flat-square&logo=scikitlearn&logoColor=F7931E)](https://github.com/Jmyukopila/NEOs-Analysis)
-[![Repo](https://img.shields.io/badge/View%20Repo-→-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/Jmyukopila/NEOs-Analysis)
-
-<img src="https://opengraph.githubassets.com/5c8271fd7dcf8eccaef029f493a95264143059e6d6d73d6e3c4d75c6a60526b7/Jmyukopila/NEOs-Analysis" width="100%" style="border-radius:8px"/>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🌦️ WHEATHERLAPSE
-**Weather Time-Series Visualization**
-
-Python-based temporal analysis and visualization of meteorological data. Time-lapse data processing with structured pipelines.
-
-[![Stack](https://img.shields.io/badge/Python-Pandas-0d1117?style=flat-square&logo=pandas&logoColor=150458)](https://github.com/Jmyukopila/WHEATHERLAPSE)
-[![Repo](https://img.shields.io/badge/View%20Repo-→-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/Jmyukopila/WHEATHERLAPSE)
-
-<img src="https://opengraph.githubassets.com/1/Jmyukopila/WHEATHERLAPSE" width="100%" style="border-radius:8px"/>
-
-</td>
-<td width="50%" valign="top">
-
-### 🗺️ Huya Web
-**Interactive Meteorological Dashboard**
-
-Full web dashboard with interactive map, time series, and multi-variable charts (precipitation, humidity, pressure, wind, temperature). Supports CSV/JSON/Excel export.
-
-[![Stack](https://img.shields.io/badge/JavaScript-Chart.js-0d1117?style=flat-square&logo=chartdotjs&logoColor=FF6384)](https://github.com/Jmyukopila/huya-web)
+[![Stack](https://img.shields.io/badge/JavaScript-Chart.js%20%7C%20Leaflet-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E)](https://github.com/Jmyukopila/huya-web)
+[![NASA](https://img.shields.io/badge/NASA-Space%20Apps%20Challenge-0d1117?style=flat-square&logo=nasa&logoColor=FC3D21)](https://github.com/Jmyukopila/huya-web)
 [![Repo](https://img.shields.io/badge/View%20Repo-→-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/Jmyukopila/huya-web)
 
-<img src="https://opengraph.githubassets.com/1/Jmyukopila/huya-web" width="100%" style="border-radius:8px"/>
-
-</td>
-</tr>
-</table>
+<img src="https://raw.githubusercontent.com/Jmyukopila/Jmyukopila/main/assets/huya-preview.png" width="100%" />
 
 ---
 
@@ -157,6 +150,7 @@ Full web dashboard with interactive map, time series, and multi-variable charts 
 
 | | |
 |---|---|
+| 💼 **LinkedIn** | [jasen-yukopila-4261b3343](https://www.linkedin.com/in/jasen-yukopila-4261b3343/) |
 | 📧 **Email** | [jmyukopila@gmail.com](mailto:jmyukopila@gmail.com) |
 | 📱 **WhatsApp** | [+57 319 209 0713](https://wa.me/573192090713) |
 | 📍 **Location** | Cartagena / Turbaco, Colombia 🇨🇴 |
