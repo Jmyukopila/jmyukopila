@@ -30,7 +30,8 @@ Records 15s of audio → extracts 40+ DSP features via librosa → Voting Classi
 
 `Python` `librosa` `FastAPI` `React` `spotipy`
 
-<img src="https://raw.githubusercontent.com/Jmyukopila/Jmyukopila/main/assets/veles-preview.png" width="100%" />
+<img width="1890" height="871" alt="veles-preview" src="https://github.com/user-attachments/assets/72d6535e-277a-4e8a-8549-5fa790d8e560" />
+
 
 </td>
 <td width="50%" valign="top">
@@ -41,7 +42,8 @@ Processes raw CSV biosignal data and computes FC, HRV, SNR, respiratory frequenc
 
 `Python` `FastAPI` `NumPy` `HTML`
 
-<img src="https://raw.githubusercontent.com/Jmyukopila/Jmyukopila/main/assets/heartbeat-preview.png" width="100%" />
+<img width="791" height="763" alt="heartbeat-preview" src="https://github.com/user-attachments/assets/dbe84b8e-78ca-42d4-af74-80cec656d4fc" />
+
 
 </td>
 </tr>
@@ -54,7 +56,8 @@ Interactive dashboard with map-based location selection and time series for prec
 
 `JavaScript` `Chart.js` `Leaflet`
 
-<img src="https://raw.githubusercontent.com/Jmyukopila/Jmyukopila/main/assets/huya-preview.png" width="100%" />
+<img width="1901" height="910" alt="huya-preview" src="https://github.com/user-attachments/assets/fca09ca8-53d9-4d59-a7d1-59d176bbd953" />
+
 
 </td>
 </tr>
