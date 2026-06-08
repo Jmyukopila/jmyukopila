@@ -18,6 +18,24 @@ I'm a **Data Science student** at UTB in Cartagena, Colombia. I design and build
 
 ---
 
+## 🏆 Awards & Recognition
+
+<div align="center">
+
+![NASA Global Nominee](https://img.shields.io/badge/🚀_NASA_Space_Apps-Global_Nominee_2025-FC3D21?style=for-the-badge&labelColor=0d1117)
+![UTB 1st Place](https://img.shields.io/badge/🥇_UTB_Data_Fair-1st_Place_2026_(Veles)-00aaff?style=for-the-badge&labelColor=0d1117)
+![UTB Best Analysis](https://img.shields.io/badge/🔬_UTB_Data_Fair-Best_Methodology_2025_(HeartAnalytics)-4ecdc4?style=for-the-badge&labelColor=0d1117)
+
+</div>
+
+| Award | Project | Event | Year |
+|---|---|---|---|
+| 🚀 **Global Nominee** | Huya Weather — *Will It Rain On My Parade?* | NASA International Space Apps Challenge · Barranquilla | Oct 2025 |
+| 🥇 **1st Place (tie)** | Veles — Music Genre Classifier | Data Impact Day – UTB · Feria de Proyectos de Ciencia de Datos | Jun 2026 |
+| 🔬 **Best Data Analysis & Methodological Rigor** | HeartAnalytics — Biosignal Analysis | Data Impact Day – UTB · Feria de Proyectos de Ciencia de Datos | Nov 2025 |
+
+---
+
 ## 🚀 Featured Projects
 
 <table>
@@ -25,6 +43,8 @@ I'm a **Data Science student** at UTB in Cartagena, Colombia. I design and build
 <td width="50%" valign="top">
 
 **🎵 [Veles](https://github.com/Jmyukopila/Veles) — Music Genre Classifier**
+
+![UTB](https://img.shields.io/badge/UTB_Data_Fair-1st_Place_2026-00aaff?style=flat-square&labelColor=0d1117)
 
 Records 15s of audio → extracts 40+ DSP features via librosa → Voting Classifier (SVM + GB + RF) with **~86.5% acc**. Includes a business dashboard with Spotify KPIs and B2C recommendations.
 
@@ -38,11 +58,13 @@ Records 15s of audio → extracts 40+ DSP features via librosa → Voting Classi
 
 **🫀 [HeatBeat](https://github.com/Jmyukopila/HeatBeat) — Biosignal Analyzer**
 
+![UTB](https://img.shields.io/badge/UTB_Data_Fair-Best_Methodology_2025-4ecdc4?style=flat-square&labelColor=0d1117)
+
 Processes raw CSV biosignal data and computes FC, HRV, SNR, respiratory frequency and more. Includes automated clinical interpretation.
 
 `Python` `FastAPI` `NumPy` `HTML`
 
-<img width="791" height="763" alt="heartbeat-preview" src="https://github.com/user-attachments/assets/dbe84b8e-78ca-42d4-af74-80cec656d4fc" />
+<img width="791" height="763" alt="heartbeat-preview" src="https://github.com/user-attachments/assets/dbe84b8e-27a4-424f-874f-47fd34d43d96" />
 
 
 </td>
@@ -50,9 +72,11 @@ Processes raw CSV biosignal data and computes FC, HRV, SNR, respiratory frequenc
 <tr>
 <td colspan="2">
 
-**🌦️ [Huya Weather](https://github.com/Jmyukopila/huya-web) — Meteorological Prediction Dashboard** &nbsp; ![NASA](https://img.shields.io/badge/NASA-Space%20Apps%20Challenge-0d1117?style=flat-square&logo=nasa&logoColor=FC3D21)
+**🌦️ [Huya Weather](https://github.com/Jmyukopila/huya-web) — Meteorological Prediction Dashboard**
 
-Interactive dashboard with map-based location selection and time series for precipitation, humidity, pressure, wind and temperature. Supports CSV/JSON/Excel export. Recognized at the **NASA Space Apps Challenge**.
+![NASA](https://img.shields.io/badge/NASA-Global_Nominee_2025-FC3D21?style=flat-square&logo=nasa&logoColor=FC3D21&labelColor=0d1117) ![Space Apps](https://img.shields.io/badge/Space_Apps_Challenge-Barranquilla-0d1117?style=flat-square&logo=nasa&logoColor=FC3D21)
+
+Interactive dashboard with map-based location selection and time series for precipitation, humidity, pressure, wind and temperature. Supports CSV/JSON/Excel export. Recognized at the **NASA Space Apps Challenge** as a **Global Nominee**.
 
 `JavaScript` `Chart.js` `Leaflet`
 
