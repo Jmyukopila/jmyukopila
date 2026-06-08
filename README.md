@@ -28,11 +28,9 @@
 ---
 
 ## 👤 About Me
-
-I'm a **Data Science student** at the Escuela de Transformación Digital, based in **Cartagena / Turbaco, Colombia**.
-I build end-to-end data pipelines, machine learning models, and interactive dashboards — always trying to extract real meaning from messy data.
-
-My work spans from **physiological signal processing** and **astronomical data analysis** to **real-time web dashboards** and **ML classification systems**. I'm currently exploring AI agent architecture, MCP protocol, and context engineering.
+I'm a Data Science student at the Universidad Tecnológica de Bolívar (UTB) in Cartagena, Colombia where the Caribbean coast meets machine learning pipelines.
+I design and build end-to-end data solutions: from raw ingestion and feature engineering to trained models and interactive dashboards. My projects range from physiological signal processing and NASA asteroid classification to real-time meteorological dashboards always driven by the same question: what is the data actually trying to say?
+Currently diving deep into AI agent architecture, MCP protocol, and context engineering the building blocks of the next generation of intelligent systems.
 
 > *"The goal is to turn data into information, and information into insight."*
 
