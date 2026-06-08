@@ -50,7 +50,8 @@ A FastAPI + Python backend that processes CSV biosignal data and computes physio
 [![Stack](https://img.shields.io/badge/Python-FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=00aaff)](https://github.com/Jmyukopila/HeatBeat)
 [![Repo](https://img.shields.io/badge/View%20Repo-→-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/Jmyukopila/HeatBeat)
 
-<img src="https://opengraph.githubassets.com/d6bd3e73065c19029651cd01975e1eda83650c888f334c850cc1348c70b08686/Jmyukopila/HeatBeat" width="100%" style="border-radius:8px"/>
+<img src="<img width="975" height="908" alt="{29543A40-6FBD-4C89-B382-9660B871CF96}" src="https://github.com/user-attachments/assets/be543887-c33e-4da8-8ff5-35859eb24953" />
+"/>
 
 </td>
 <td width="50%" valign="top">
