@@ -95,8 +95,6 @@ Interactive dashboard with map-based location selection and time series for prec
 
 ![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=00aaff)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0d1117?style=flat-square&logo=scikitlearn&logoColor=F7931E)
-![XGBoost](https://img.shields.io/badge/XGBoost-0d1117?style=flat-square&logo=xgboost&logoColor=00aaff)
-![LightGBM](https://img.shields.io/badge/LightGBM-0d1117?style=flat-square&logo=lightgbm&logoColor=9ecf4f)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=flat-square&logo=tensorflow&logoColor=FF6F00)
 ![librosa](https://img.shields.io/badge/librosa-0d1117?style=flat-square&logo=python&logoColor=ff69b4)
 
