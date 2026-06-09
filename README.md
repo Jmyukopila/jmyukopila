@@ -64,7 +64,8 @@ Processes raw CSV biosignal data and computes FC, HRV, SNR, respiratory frequenc
 
 `Python` `FastAPI` `NumPy` `HTML`
 
-<img width="791" height="763" alt="heartbeat-preview" src="https://github.com/user-attachments/assets/dbe84b8e-27a4-424f-874f-47fd34d43d96" />
+<img width="1333" height="906" alt="{58331CE9-3DE2-4FA1-B4FB-6DC7E87EBB9E}" src="https://github.com/user-attachments/assets/826d6cfd-a66f-42b6-aed2-71bfed13e953" />
+
 
 
 </td>
@@ -78,7 +79,7 @@ Processes raw CSV biosignal data and computes FC, HRV, SNR, respiratory frequenc
 
 Interactive dashboard with map-based location selection and time series for precipitation, humidity, pressure, wind and temperature. Supports CSV/JSON/Excel export. Recognized at the **NASA Space Apps Challenge** as a **Global Nominee**.
 
-`JavaScript` `Chart.js` `Leaflet`
+`JavaScript` `Chart.js` `Leaflet` `Python` `Jupyter Notebook`
 
 <img width="1901" height="910" alt="huya-preview" src="https://github.com/user-attachments/assets/fca09ca8-53d9-4d59-a7d1-59d176bbd953" />
 
