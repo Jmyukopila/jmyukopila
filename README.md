@@ -85,7 +85,6 @@ Interactive dashboard with map-based location selection and time series for prec
 </table>
 
 ---
-
 ## 🛠️ Tech Stack
 
 <table>
@@ -121,12 +120,12 @@ Interactive dashboard with map-based location selection and time series for prec
 ![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=009688)
 ![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=339933)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=4169E1)
-![SQLite](https://img.shields.io/badge/SQLite-0d1117?style=flat-square&logo=sqlite&logoColor=003B57)
 ![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=4479A1)
+![SQLite](https://img.shields.io/badge/SQLite-0d1117?style=flat-square&logo=sqlite&logoColor=003B57)
 ![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=47A248)
-![Neon](https://img.shields.io/badge/Neon-0d1117?style=flat-square&logo=neon&logoColor=00E599)
-![Jupyter](https://img.shields.io/badge/Jupyter-0d1117?style=flat-square&logo=jupyter&logoColor=F37626)
 ![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05032)
+![Jupyter](https://img.shields.io/badge/Jupyter-0d1117?style=flat-square&logo=jupyter&logoColor=F37626)
+
 </td>
 <td valign="top" width="25%">
 
@@ -137,8 +136,38 @@ Interactive dashboard with map-based location selection and time series for prec
 
 </td>
 </tr>
-</table>
+<tr>
+<td valign="top" width="25%">
 
+**📈 BI & Analytics**
+
+![Power BI](https://img.shields.io/badge/Power_BI-0d1117?style=flat-square&logo=powerbi&logoColor=F2C811)
+![Excel](https://img.shields.io/badge/Excel-0d1117?style=flat-square&logo=microsoftexcel&logoColor=217346)
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-0d1117?style=flat-square&logo=googlesheets&logoColor=34A853)
+
+</td>
+<td valign="top" width="25%">
+
+**🔬 Research Tools**
+
+![Orange](https://img.shields.io/badge/Orange_Data_Mining-0d1117?style=flat-square&logo=python&logoColor=FF8C00)
+![SCImago](https://img.shields.io/badge/SCImago_Graphica-0d1117?style=flat-square&logo=academia&logoColor=00aaff)
+
+</td>
+<td valign="top" width="25%">
+
+**☁️ Cloud & Deploy**
+
+![Render](https://img.shields.io/badge/Render-0d1117?style=flat-square&logo=render&logoColor=46E3B7)
+![Vercel](https://img.shields.io/badge/Vercel-0d1117?style=flat-square&logo=vercel&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0d1117?style=flat-square&logo=railway&logoColor=white)
+![Neon](https://img.shields.io/badge/Neon-0d1117?style=flat-square&logo=neon&logoColor=00E599)
+
+</td>
+<td valign="top" width="25%">
+</td>
+</tr>
+</table>
 ---
 
 ## 📊 GitHub Stats
