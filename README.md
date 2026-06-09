@@ -189,9 +189,13 @@ Beyond that, I'm drawn to fields at the frontier of what's computationally possi
 
 **⚛️ Quantum Computing** · Its intersection with ML — quantum kernels, variational circuits, and quantum-enhanced optimization.
 
-**🏗️ MLOps & Data Engineering at scale** · Building the pipelines and infrastructure that make models actually useful in the real world, not just in notebooks.
+**🏗️ Apache Spark & Kafka** · Real-time and large-scale distributed data processing for production pipelines.
 
-**🤝 Responsible AI** · Understanding how models fail, how to audit them, and how to deploy them ethically in high-stakes domains like healthcare and climate.
+**☁️ Cloud Architecture** · AWS, GCP or Azure — designing scalable, cost-efficient ML infrastructure in the cloud.
+
+**🧠 Deep Learning & Computer Vision** · PyTorch, transformers, and vision models applied to real-world problems.
+
+**📡 Data Streaming & MLOps** · Airflow, MLflow, Docker, Kubernetes — the tooling that takes models from notebooks to production.
 
 > *The most interesting problems in data science aren't solved by better models alone — they're solved by better systems, better questions, and better judgment about when* not *to reach for ML at all.*
 ---
