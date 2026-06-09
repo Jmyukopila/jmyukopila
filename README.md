@@ -133,7 +133,10 @@ Interactive dashboard with map-based location selection and time series for prec
 
 ![Claude API](https://img.shields.io/badge/Claude_API-0d1117?style=flat-square&logo=anthropic&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP_Protocol-0d1117?style=flat-square&logo=anthropic&logoColor=00aaff)
-
+![Ollama](https://img.shields.io/badge/Ollama-0d1117?style=flat-square&logo=ollama&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=flat-square&logo=langchain&logoColor=1C3C3C)
+![OpenAI API](https://img.shields.io/badge/OpenAI_API-0d1117?style=flat-square&logo=openai&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-0d1117?style=flat-square&logo=cursor&logoColor=white)
 </td>
 </tr>
 <tr>
