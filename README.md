@@ -52,7 +52,6 @@ Records 15s of audio → extracts 40+ DSP features via librosa → Voting Classi
 
 <img width="1890" height="871" alt="veles-preview" src="https://github.com/user-attachments/assets/72d6535e-277a-4e8a-8549-5fa790d8e560" />
 
-
 </td>
 <td width="50%" valign="top">
 
@@ -64,10 +63,7 @@ Processes raw CSV biosignal data and computes FC, HRV, SNR, respiratory frequenc
 
 `Python` `FastAPI` `NumPy` `HTML`
 
-<img width="1322" height="895" alt="{CDDCAE11-DA10-461B-AE12-003D7AB3E1B0}" src="https://github.com/user-attachments/assets/29ec1533-866e-4651-8512-08f3e27fbf76" />
-
-
-
+<img width="1322" height="895" alt="heartbeat-preview" src="https://github.com/user-attachments/assets/29ec1533-866e-4651-8512-08f3e27fbf76" />
 
 </td>
 </tr>
@@ -84,9 +80,6 @@ Interactive dashboard with map-based location selection and time series for prec
 
 <img width="1901" height="910" alt="huya-preview" src="https://github.com/user-attachments/assets/4c372002-7120-4b61-932b-0291da992528" />
 
-
-
-
 </td>
 </tr>
 </table>
@@ -95,26 +88,59 @@ Interactive dashboard with map-based location selection and time series for prec
 
 ## 🛠️ Tech Stack
 
+<table>
+<tr>
+<td valign="top" width="25%">
+
+**🧠 ML & AI**
+
 ![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=00aaff)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0d1117?style=flat-square&logo=scikitlearn&logoColor=F7931E)
 ![XGBoost](https://img.shields.io/badge/XGBoost-0d1117?style=flat-square&logo=xgboost&logoColor=00aaff)
 ![LightGBM](https://img.shields.io/badge/LightGBM-0d1117?style=flat-square&logo=lightgbm&logoColor=9ecf4f)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=flat-square&logo=tensorflow&logoColor=FF6F00)
 ![librosa](https://img.shields.io/badge/librosa-0d1117?style=flat-square&logo=python&logoColor=ff69b4)
+
+</td>
+<td valign="top" width="25%">
+
+**📊 Data & Viz**
+
 ![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=flat-square&logo=pandas&logoColor=150458)
 ![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=flat-square&logo=numpy&logoColor=013243)
 ![Plotly](https://img.shields.io/badge/Plotly-0d1117?style=flat-square&logo=plotly&logoColor=3F4F75)
 ![Dash](https://img.shields.io/badge/Dash-0d1117?style=flat-square&logo=plotly&logoColor=00aaff)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-0d1117?style=flat-square&logo=matplotlib&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-0d1117?style=flat-square&logo=python&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-0d1117?style=flat-square&logo=chartdotjs&logoColor=FF6384)
+
+</td>
+<td valign="top" width="25%">
+
+**⚙️ Backend & DB**
+
 ![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=009688)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=4169E1)
 ![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=339933)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=4169E1)
+![SQLite](https://img.shields.io/badge/SQLite-0d1117?style=flat-square&logo=sqlite&logoColor=003B57)
+![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=4479A1)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=47A248)
+![Neon](https://img.shields.io/badge/Neon-0d1117?style=flat-square&logo=neon&logoColor=00E599)
 ![Jupyter](https://img.shields.io/badge/Jupyter-0d1117?style=flat-square&logo=jupyter&logoColor=F37626)
 ![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05032)
+</td>
+<td valign="top" width="25%">
+
+**🤖 AI Tooling**
+
 ![Claude API](https://img.shields.io/badge/Claude_API-0d1117?style=flat-square&logo=anthropic&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP_Protocol-0d1117?style=flat-square&logo=anthropic&logoColor=00aaff)
 
+</td>
+</tr>
+</table>
+
 ---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -135,4 +161,3 @@ Interactive dashboard with map-based location selection and time series for prec
   <br/><br/>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Jmyukopila.Jmyukopila&left_color=0d1117&right_color=00aaff&left_text=visitors" />
 </div>
-
