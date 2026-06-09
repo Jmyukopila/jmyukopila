@@ -180,26 +180,20 @@ Web platform for meteorological data exploration built for the **NASA Space Apps
 </tr>
 </table>
 ---
----
 
 ## 🔭 What's Next
 
-My goal is to pursue a **Master's degree in Data Engineering & AI** — deepening my expertise
-in large-scale data infrastructure, MLOps, and the systems that make intelligent applications
-production-viable at scale.
+My goal is to pursue a **Master's degree in Data Engineering & AI**, deepening my expertise in large-scale data infrastructure, MLOps, and the systems that make intelligent applications production-viable at scale.
 
-Beyond that, I'm drawn to fields that sit at the frontier of what's computationally possible:
+Beyond that, I'm drawn to fields at the frontier of what's computationally possible:
 
-- **Quantum Computing** — specifically its intersection with ML (quantum kernels, variational
-circuits, quantum-enhanced optimization)
-- **MLOps & Data Engineering at scale** — building the pipelines and infrastructure that make
-models actually useful in the real world, not just in notebooks
-- **Responsible AI** — understanding how models fail, how to audit them, and how to deploy
-them ethically in high-stakes domains like healthcare and climate
+**⚛️ Quantum Computing** · Its intersection with ML — quantum kernels, variational circuits, and quantum-enhanced optimization.
 
-I believe the most interesting problems in data science aren't solved by better models alone —
-they're solved by better systems, better questions, and better judgment about when *not* to
-reach for ML at all.
+**🏗️ MLOps & Data Engineering at scale** · Building the pipelines and infrastructure that make models actually useful in the real world, not just in notebooks.
+
+**🤝 Responsible AI** · Understanding how models fail, how to audit them, and how to deploy them ethically in high-stakes domains like healthcare and climate.
+
+> *The most interesting problems in data science aren't solved by better models alone — they're solved by better systems, better questions, and better judgment about when* not *to reach for ML at all.*
 ---
 
 ## 📊 GitHub Stats
