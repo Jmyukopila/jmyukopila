@@ -111,21 +111,24 @@ Interactive dashboard with map-based location selection and time series for prec
 ![MCP](https://img.shields.io/badge/MCP_Protocol-0d1117?style=flat-square&logo=anthropic&logoColor=00aaff)
 
 ---
-
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Jmyukopila&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00aaff&icon_color=00aaff&text_color=c9d1d9" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Jmyukopila&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00aaff&icon_color=00aaff&text_color=c9d1d9&count_private=true&cache_seconds=1800" />
   &nbsp;
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jmyukopila&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00aaff&text_color=c9d1d9" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jmyukopila&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00aaff&text_color=c9d1d9&cache_seconds=1800" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Jmyukopila&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00aaff&fire=00aaff&currStreakLabel=00aaff" />
 </div>
 
 ---
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00aaff,50:0a2540,100:0d1117&height=80&section=footer" />
-  <br/>
   <sub>open to · research collabs · data projects · freelance analytics</sub>
   <br/><br/>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Jmyukopila.Jmyukopila&left_color=0d1117&right_color=00aaff&left_text=visitors" />
 </div>
+
