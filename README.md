@@ -81,7 +81,8 @@ Interactive dashboard with map-based location selection and time series for prec
 
 `JavaScript` `Chart.js` `Leaflet` `Python` `Jupyter Notebook`
 
-<img width="1901" height="910" alt="huya-preview" src="https://github.com/user-attachments/assets/fca09ca8-53d9-4d59-a7d1-59d176bbd953" />
+<img width="1322" height="895" alt="{CDDCAE11-DA10-461B-AE12-003D7AB3E1B0}" src="https://github.com/user-attachments/assets/5ba246a4-d895-4b58-a8bc-067676df16cb" />
+
 
 
 </td>
