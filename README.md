@@ -14,7 +14,17 @@
 
 ---
 
-I'm a **Data Science student** at UTB in Cartagena, Colombia. I design and build end-to-end data solutions: from raw ingestion and feature engineering to trained models and interactive dashboards — always driven by the same question: *what is the data actually trying to say?* Currently exploring **AI agent architecture**, **MCP protocol**, and **context engineering**.
+I'm a **Data Science student** at the Universidad Tecnológica de Bolívar (UTB) in Cartagena,
+Colombia — where the Caribbean coast meets machine learning pipelines.
+
+I build end-to-end data solutions: from raw ingestion and feature engineering to production-ready
+models and interactive dashboards. My work spans domains where data carries real consequences —
+**healthcare**, **environmental analysis**, and **creative industries** — always asking the same
+question: *what is the data actually trying to say?*
+
+Beyond the models, I'm drawn to the architecture behind intelligent systems — currently exploring
+**AI agent design**, **MCP protocol**, and **context engineering** as the foundation of what
+comes next in applied AI.
 
 ---
 
@@ -169,6 +179,27 @@ Web platform for meteorological data exploration built for the **NASA Space Apps
 </td>
 </tr>
 </table>
+---
+---
+
+## 🔭 What's Next
+
+My goal is to pursue a **Master's degree in Data Engineering & AI** — deepening my expertise
+in large-scale data infrastructure, MLOps, and the systems that make intelligent applications
+production-viable at scale.
+
+Beyond that, I'm drawn to fields that sit at the frontier of what's computationally possible:
+
+- **Quantum Computing** — specifically its intersection with ML (quantum kernels, variational
+circuits, quantum-enhanced optimization)
+- **MLOps & Data Engineering at scale** — building the pipelines and infrastructure that make
+models actually useful in the real world, not just in notebooks
+- **Responsible AI** — understanding how models fail, how to audit them, and how to deploy
+them ethically in high-stakes domains like healthcare and climate
+
+I believe the most interesting problems in data science aren't solved by better models alone —
+they're solved by better systems, better questions, and better judgment about when *not* to
+reach for ML at all.
 ---
 
 ## 📊 GitHub Stats
