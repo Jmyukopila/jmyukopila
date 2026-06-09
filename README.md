@@ -46,9 +46,9 @@ I'm a **Data Science student** at UTB in Cartagena, Colombia. I design and build
 
 ![UTB](https://img.shields.io/badge/UTB_Data_Fair-1st_Place_2026-00aaff?style=flat-square&labelColor=0d1117)
 
-Records 15s of audio → extracts 40+ DSP features via librosa → Voting Classifier (SVM + GB + RF) with **~86.5% acc**. Includes a business dashboard with Spotify KPIs and B2C recommendations.
+Full-stack ML system that records 15s of live audio, extracts 40+ acoustic features (MFCCs, chroma, spectral centroid, tempo) via librosa, and classifies the musical genre using a Voting Classifier (SVM + GB + RF) with **~86.5% accuracy**. Integrates the Spotify API to pull real commercial data per genre — investment scores, ROI estimates, demographic breakdowns — displayed in an interactive business dashboard.
 
-`Python` `librosa` `FastAPI` `React` `spotipy`
+`Python` `librosa` `FastAPI` `React/Vite` `TypeScript` `spotipy`
 
 <img width="1890" height="871" alt="veles-preview" src="https://github.com/user-attachments/assets/72d6535e-277a-4e8a-8549-5fa790d8e560" />
 
@@ -59,7 +59,7 @@ Records 15s of audio → extracts 40+ DSP features via librosa → Voting Classi
 
 ![UTB](https://img.shields.io/badge/UTB_Data_Fair-Best_Methodology_2025-4ecdc4?style=flat-square&labelColor=0d1117)
 
-Processes raw CSV biosignal data and computes FC, HRV, SNR, respiratory frequency and more. Includes automated clinical interpretation.
+Clinical-grade biosignal analysis tool built with FastAPI. Ingests raw CSV signals from physiological sensors and computes key health metrics: heart rate (FC), heart rate variability (HRV), signal-to-noise ratio (SNR), and respiratory frequency. Each metric is paired with automated clinical interpretation, classifying readings as normal, elevated, or anomalous — no medical expertise required to read the output.
 
 `Python` `FastAPI` `NumPy` `HTML`
 
@@ -74,9 +74,9 @@ Processes raw CSV biosignal data and computes FC, HRV, SNR, respiratory frequenc
 
 ![NASA](https://img.shields.io/badge/NASA-Global_Nominee_2025-FC3D21?style=flat-square&logo=nasa&logoColor=FC3D21&labelColor=0d1117) ![Space Apps](https://img.shields.io/badge/Space_Apps_Challenge-Barranquilla-0d1117?style=flat-square&logo=nasa&logoColor=FC3D21)
 
-Interactive dashboard with map-based location selection and time series for precipitation, humidity, pressure, wind and temperature. Supports CSV/JSON/Excel export. Recognized at the **NASA Space Apps Challenge** as a **Global Nominee**.
+Web platform for meteorological data exploration built for the **NASA Space Apps Challenge** — recognized as **Global Nominee** by NASA. Users click a Leaflet map to pin any location, define a date range, and instantly visualize time series for precipitation, humidity, pressure, wind, and temperature via Chart.js. Data can be exported in CSV, JSON, or Excel. Architecture is production-ready and designed to connect to live weather APIs with minimal changes.
 
-`JavaScript` `Chart.js` `Leaflet` `Python` `Jupyter Notebook`
+`JavaScript` `Chart.js` `Leaflet` `Python` `Flask`
 
 <img width="1901" height="910" alt="huya-preview" src="https://github.com/user-attachments/assets/4c372002-7120-4b61-932b-0291da992528" />
 
