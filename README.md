@@ -64,7 +64,8 @@ Processes raw CSV biosignal data and computes FC, HRV, SNR, respiratory frequenc
 
 `Python` `FastAPI` `NumPy` `HTML`
 
-<img width="1333" height="906" alt="{58331CE9-3DE2-4FA1-B4FB-6DC7E87EBB9E}" src="https://github.com/user-attachments/assets/826d6cfd-a66f-42b6-aed2-71bfed13e953" />
+<img width="1322" height="895" alt="{CDDCAE11-DA10-461B-AE12-003D7AB3E1B0}" src="https://github.com/user-attachments/assets/29ec1533-866e-4651-8512-08f3e27fbf76" />
+
 
 
 
@@ -81,7 +82,8 @@ Interactive dashboard with map-based location selection and time series for prec
 
 `JavaScript` `Chart.js` `Leaflet` `Python` `Jupyter Notebook`
 
-<img width="1322" height="895" alt="{CDDCAE11-DA10-461B-AE12-003D7AB3E1B0}" src="https://github.com/user-attachments/assets/5ba246a4-d895-4b58-a8bc-067676df16cb" />
+<img width="1901" height="910" alt="huya-preview" src="https://github.com/user-attachments/assets/4c372002-7120-4b61-932b-0291da992528" />
+
 
 
 
