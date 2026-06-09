@@ -174,11 +174,13 @@ Web platform for meteorological data exploration built for the **NASA Space Apps
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Jmyukopila&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00aaff&icon_color=00aaff&text_color=c9d1d9&count_private=true" />
-  &nbsp;
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jmyukopila&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00aaff&text_color=c9d1d9" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jmyukopila&theme=github_dark" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jmyukopila&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jmyukopila&theme=github_dark" height="150"/>
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jmyukopila&theme=github_dark" height="150"/>
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jmyukopila&theme=github_dark" height="150"/>
 </div>
