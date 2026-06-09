@@ -180,5 +180,5 @@ Web platform for meteorological data exploration built for the **NASA Space Apps
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Jmyukopila&theme=dark&hide_border=true&background=0D1117&ring=00aaff&fire=00aaff&currStreakLabel=00aaff&sideLabels=c9d1d9&dates=c9d1d9&stroke=0d1117" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jmyukopila&theme=github_dark" />
 </div>
