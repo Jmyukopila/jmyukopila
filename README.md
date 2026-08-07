@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a2540,100:00aaff&height=160&section=header&text=Jasen%20Yukopila&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Data%20Science%20Student%20%C2%B7%20UTB%20%C2%B7%20Cartagena%2C%20Colombia%20%F0%9F%87%A8%F0%9F%87%B4&descAlignY=58&descSize=13" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a2540,100:00aaff&height=160&section=header&text=Jasen%20Yukopila&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Data%20Science%20Student%20%C2%B7%20UTB%20%C2%B7%20Cartagena%2C%20Colombia&descAlignY=58&descSize=13" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=1200&color=00AAFF&center=true&vCenter=true&width=560&lines=Python+%C2%B7+Machine+Learning+%C2%B7+Data+Pipelines;Convirtiendo+datos+crudos+en+decisiones;Building+one+model%2C+one+dashboard+at+a+time." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=1200&color=00AAFF&center=true&vCenter=true&width=560&lines=Python+%C2%B7+Machine+Learning+%C2%B7+Data+Pipelines;Turning+raw+data+into+decisions;Building+one+model%2C+one+dashboard+at+a+time." />
 </div>
 
 <div align="center">
@@ -14,25 +14,25 @@
 
 ---
 
-### 👋 Sobre mí
+### About Me
 
-Estudiante de **Ciencia de Datos** en la Universidad Tecnológica de Bolívar, a punto de graduarme.
-Me interesa la parte de los datos que casi nadie quiere hacer: limpiarlos, entenderlos y convertirlos
-en algo que una persona pueda usar para decidir — un modelo, un dashboard, una API.
+Data Science student at Universidad Tecnológica de Bolívar (UTB), about to graduate.
+I care about the part of data work most people skip: cleaning it, understanding it, and turning
+it into something a person can actually act on — a model, a dashboard, an API.
 
-He tenido la suerte de que ese trabajo se reconozca: nominación global en el **NASA Space Apps
-Challenge** y dos premios en ferias de ciencia de datos de la UTB. El detalle de cada proyecto,
-con demos en vivo, vive en mi portafolio 👇
+That work has been recognized along the way: a global nominee spot at the **NASA Space Apps
+Challenge**, plus two awards at UTB data science fairs. The full detail on every project, with
+live demos, lives on my portfolio below.
 
 <div align="center">
   <a href="https://paginaweb-lyart-chi.vercel.app">
-    <img src="https://img.shields.io/badge/🌐_Ver_portafolio_completo-00aaff?style=for-the-badge&labelColor=0d1117" />
+    <img src="https://img.shields.io/badge/View_Full_Portfolio-00aaff?style=for-the-badge&labelColor=0d1117" />
   </a>
 </div>
 
 ---
 
-### 🧰 Stack base
+### Core Stack
 
 ![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB)
 ![SQL](https://img.shields.io/badge/SQL-0d1117?style=flat-square&logo=postgresql&logoColor=4169E1)
@@ -42,11 +42,11 @@ con demos en vivo, vive en mi portafolio 👇
 ![Power BI](https://img.shields.io/badge/Power_BI-0d1117?style=flat-square&logo=powerbi&logoColor=F2C811)
 ![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05032)
 
-El stack completo por categoría (ML, cloud, BI, AI tooling…) está desglosado en el portafolio.
+The full stack, broken down by category (ML, cloud, BI, AI tooling...), is on the portfolio.
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jmyukopila&theme=github_dark" width="100%" />
